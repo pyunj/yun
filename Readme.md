@@ -15,4 +15,4 @@
 ## 4주차 과제(2020.06.17)
 
 - 딥러닝 용어 정리, 클론 코팅, 딥러닝 순전파 & 역전파 계산
-(
+(https://github.com/pyunj/yun/blob/master/4%EC%A3%BC%EC%B0%A8%EA%B3%BC%EC%A0%9C.ipynb)
